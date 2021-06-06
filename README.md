@@ -5,4 +5,4 @@ We propose an integrative approach to the problem of characterizing an unlabelle
 The notebooks in this repository constitute an application of our methodology to the CORD-19 dataset, a collection of articles on COVID-19, shows our methodology produces a coherent, meaningful, and informative characterization of the corpus.
 
 Here is an overview of our methodology:
-![](.jpg)
+![](overview_proposal.png)
