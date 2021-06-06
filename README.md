@@ -1,1 +1,1 @@
-# biomedical_clustering_topic_modeling
+# Clustering and topic modeling for biomedical text mining
