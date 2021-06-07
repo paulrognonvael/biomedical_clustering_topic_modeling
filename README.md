@@ -10,7 +10,9 @@ The notebooks in this repository constitute an application of our methodology to
 - 3_comparison_representations: comparison of individual representations.
 - 4_multiview_rep_learning_clustering: learning of the multiview MDS representation and extraction of keywords by clusters.
 - 5_similarity_functions: examples of how, for a given abstract, we are able to retrieve the closest topics, closest clusters and closests neighbours in our MVMDS representation.
-- 6_semantic_graph: construction of the semantic graph and example of our external concepts can be mapped into the graph. 
+- 6_semantic_graph: construction of the semantic graph and example of our external concepts can be mapped into the graph.
 
 Here is an overview of our methodology:
 ![](overview_proposal.png)
+
+Appendices 1 and 2 are an implementation of the Diagonal Bernoulli Latent Block Model (M3). Appendix 1 is a standard implementation and testing on synthetic datasets. Appendix 2 is a modified version of DBLEBM M3 and application to the a sample of abstracts from the CORD-19 dataset.
