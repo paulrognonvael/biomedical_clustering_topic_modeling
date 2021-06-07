@@ -15,4 +15,4 @@ The notebooks in this repository constitute an application of our methodology to
 Here is an overview of our methodology:
 ![](overview_proposal.png)
 
-Appendices 1 and 2 are an implementation of the Diagonal Bernoulli Latent Block Model (M3). Appendix 1 is a standard implementation and testing on synthetic datasets. Appendix 2 is a modified version of DBLEBM M3 and application to the a sample of abstracts from the CORD-19 dataset.
+Appendices 1 and 2 are implementations of the Diagonal Bernoulli Latent Block Model (M3). Appendix 1 is a standard implementation with testing on synthetic datasets. Appendix 2 is a modified version of DBLBM M3 with an application to a sample of abstracts from the CORD-19 dataset.
